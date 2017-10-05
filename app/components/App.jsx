@@ -9,6 +9,7 @@ var App = ({children}) => {   //props;
      <Navigation/>
       <div className="row" >
         <div className="column small-centered medium-6 large-4">
+          <p>Tak eto zhe Bodyan, nichego sebe</p>
 
           {children}
         </div>
