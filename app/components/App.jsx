@@ -7,9 +7,10 @@ var App = ({children}) => {   //props;
   return (
     <div>
      <Navigation/>
+       <p>Tak eto zhe Bodyan, nichego sebe</p>
       <div className="row" >
         <div className="column small-centered medium-6 large-4">
-          <p>Tak eto zhe Bodyan, nichego sebe</p>
+          
 
           {children}
         </div>
